@@ -1,7 +1,7 @@
 # DAO-Data_Access_Object
 Data Access Object - CRUD </br>
 (ENG) </br>
-<p> This is program written in Java which enable us making CRUD operations with DAO</br>
+<p> This is program written in Java which enable us to make CRUD operations with DAO</br>
 During creating this program I consolidated the knowledge about: 
 <ul> 
 <li>Data Access Object</li> 
