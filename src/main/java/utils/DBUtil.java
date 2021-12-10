@@ -2,6 +2,9 @@ package utils;
 
 import java.sql.*;
 
+/**
+ * DBUtil class connects to the database
+ */
 public class DBUtil {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/database?useSSL=false&characterEncoding=utf8&serverTimezone=UTC";
     private static final String DB_USER = "root";

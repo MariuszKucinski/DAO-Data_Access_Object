@@ -7,6 +7,10 @@ import utils.DBUtil;
 import java.sql.*;
 import java.util.Arrays;
 
+/**
+ * UserDAO creates methods to operate on database from objective level
+ *
+ */
 public class UserDao {
     private static final String CREATE_USER_QUERY = "INSERT INTO users(userName, email, password) VALUE(?,?,?)";
     private static final String READ_USER_QUERY = "SELECT users.* FROM users WHERE id = ?";
