@@ -1,4 +1,4 @@
-# DAO-Data_Access_Object
+# USER_DAO
 Data Access Object - CRUD </br>
 (ENG) </br>
 <p> This is program written in Java which enable us to make CRUD operations with DAO</br>
