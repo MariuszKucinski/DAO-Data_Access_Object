@@ -15,7 +15,7 @@ We also can list all users from database</br>
 1)Download all needed software bulleted above. </br>
 2)Launch your IDE(Intellij UE, eclipse, etc.) </br>
 3)Open project as "new project from existing source", check Maven project and "import project from external mode"</br>
-4)Conect your IDE with MySQL and create database.
+4)Conect your IDE with MySQL and create database. </br>
 Enjoy!</p> 
 </br>
 (PL) </br>
@@ -34,5 +34,5 @@ Możemy także wylistować wszystkich użytkowników</br>
 1) Pobierz wszystkie potrzebne pliki źródłowe wymienione powyżej. </br>
 2) Uruchom swoje IDE (Intellij UE, Eclipse itp.) </br>
 3) Otwórz projekt jako „nowy projekt z istniejącego źródła”, zaznacz projekt Maven i „importuj projekt z trybu zewnętrznego”</br>
-4) Połącz swoje środowisko programistyczne z MySql i stwórz bazę danych
+4) Połącz swoje środowisko programistyczne z MySql i stwórz bazę danych  </br>
 Korzystaj!</p>
