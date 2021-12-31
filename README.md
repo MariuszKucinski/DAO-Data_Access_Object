@@ -8,6 +8,7 @@ During creating this program I consolidated the knowledge about:
 <li>MySQL syntax</li>
 <li>CRUD operations</li> 
 <li>Data storage</li>
+<li>BCrypt</li>
 </ul>
 The program enables us to create, read, update and delete users from the object level</br> 
 We also can list all users from database</br>
@@ -27,6 +28,7 @@ Tworząc ten program utrwaliłem swoją wiedzę na temat:
 <li>Składnia MySQL</li>
 <li>Operacje CRUD</li> 
 <li>Przechowywanie danych</li> 
+<li>Szyfrowanie BCrypt</li>
 </ul>
 Program pozwala nam tworzyć, odczytywać, aktualizować i usuwać użytkowników z poziomu obiektowego<//br>
 Możemy także wylistować wszystkich użytkowników</br>
