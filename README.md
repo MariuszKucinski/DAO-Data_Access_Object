@@ -15,7 +15,7 @@ We also can list all users from database</br>
 1)Download all needed software bulleted above. </br>
 2)Launch your IDE(Intellij UE, eclipse, etc.) </br>
 3)Open project as "new project from existing source", check Maven project and "import project from external mode"</br>
-4)Conect your IDE with MySQL and create database. </br>
+4)Connect your IDE with MySQL and create database. </br>
 Enjoy!</p> 
 </br>
 (PL) </br>
